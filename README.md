@@ -2,14 +2,12 @@
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/iagognunes)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/iagognunes/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/iagognunes/)
+
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/patrick-porto/)
 
 **Currently working with:**
 
 <a href="https://unity.com/pt" title="Unity"><img src="icons/unity.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
@@ -39,6 +37,6 @@
 
 <h3 align="center">⭐  Statistics</h3>
 
-[![Patrick Porto's github stats](https://github-readme-stats.vercel.app/api?username=iagognunes&theme=midnight-purple&show_icons=true)](https://github.com/iagognunes/github-readme-stats)
+[![Patrick Porto's github stats](https://github-readme-stats.vercel.app/api?username=pkporto&theme=midnight-purple&show_icons=true)](https://github.com/iagognunes/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pkporto&theme=midnight-purple&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=pkporto&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
