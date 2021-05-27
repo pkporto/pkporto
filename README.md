@@ -1,4 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Patrick Porto</h1>
 
 **Social Media:**
 
@@ -40,3 +39,7 @@
 [![Patrick Porto's github stats](https://github-readme-stats.vercel.app/api?username=pkporto&theme=midnight-purple&show_icons=true)](https://github.com/pkporto/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pkporto&theme=midnight-purple&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=pkporto&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+|Wakatime Stats|
+|:---:|
+|[![Patrick Porto wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkporto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+
