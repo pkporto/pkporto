@@ -41,5 +41,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pkporto&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 |Wakatime Stats|
 |:---:|
-|[![Patrick Porto wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkporto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-
+|[![Iago G. Nunes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkporto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
