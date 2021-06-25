@@ -13,7 +13,6 @@
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
 **Learning:**
-<a href="https://br.vuejs.org/" title="Dart"><img src="icons/vuejs.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
