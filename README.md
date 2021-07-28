@@ -1,18 +1,18 @@
+Works at Grupo Líder as System Analyst. Degree in Game Development and studiyng Information Systems at UFRA (Universidade Federal Rural da Amazônia). 
 
-**Social Media:**
-
-
+Social Media:
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/patrick-porto/)
 
-**Currently working with:**
+Currently working with:
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
 **Learning:**
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
